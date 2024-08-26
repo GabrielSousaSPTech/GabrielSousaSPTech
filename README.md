@@ -30,11 +30,20 @@
 
 ##
 <div align="center">
-  <a href="https://github.com/moiseshxs">
+  <a href="https://github.com/GabrielSousaSPTech">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielSousaSPTech&theme=shadow-purple&hide_border=false"/>
   </a>
 </div>
- ##
+
+<div style="display: flex">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSousaSPTech&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
 <div> 
    <a href="https://www.linkedin.com/in/gabriel-sousa-79339b276/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
