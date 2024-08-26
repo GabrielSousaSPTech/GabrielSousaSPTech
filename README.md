@@ -34,10 +34,10 @@
   <a href="https://github.com/GabrielSousaSPTech">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielSousaSPTech&theme=shadow-purple&hide_border=false"/>
   </a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSousaSPTech&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSousaSPTech&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
