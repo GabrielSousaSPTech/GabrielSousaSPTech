@@ -28,7 +28,12 @@
   <img align="center" alt="Fer-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> -->
 </div>
 
-
+##
+<div align="center">
+  <a href="https://github.com/moiseshxs">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=moiseshbs&theme=shadow-purple&hide_border=false"/>
+  </a>
+</div>
  
 <div> 
 <!--   <a href="https://instagram.com/araujo_feh_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
@@ -36,4 +41,4 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FerArj&icon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GabrielSousaSPTech&icon=0&color=11)](https://visitcount.itsvg.in)
